@@ -1,9 +1,4 @@
----
-title: "Resources"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Resources
 
 Excellent website with videos demonstrating subtle forms of gender bias
 http://www.genderbiasbingo.com/bias-pattern/
